@@ -68,6 +68,9 @@ A clean digital clock interface showing:
 * Date
 * AM/PM indicator
 
+* <img width="1420" height="711" alt="image" src="https://github.com/user-attachments/assets/0ec8a940-11e3-4eb9-a94c-d81b7041bf95" />
+
+
 
 
 ---
